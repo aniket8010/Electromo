@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+}
+header .a_top_header {
+  background-color: #34b1da;
+  padding: 15px;
+  color: white;
+}
+.left_top_header {
+  width: 35%;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+
+}
+.right_top_header {
+  flex: 1;
+  font-size: 15px;
+  align-items: center;
+  letter-spacing: 0.5px;
+
+}
+.shop-btn{
+    padding: 7px 16px;
+    border-radius: 3px;
+    border: none;
+    font-size: 11px;
+    /* font-weight: 600; */
+}
